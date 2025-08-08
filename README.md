@@ -7,9 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmitraguho&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sowmitraguho&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ---
 
