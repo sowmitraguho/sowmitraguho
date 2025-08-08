@@ -1,28 +1,46 @@
 # 🧑‍💻 Sowmitra Guha — Web Developer  
 
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gowmitraguho&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowmitraguho&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gowmitraguho&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
 ## 👋 About Me  
-I’m a passionate Web Developer who loves turning ideas into clean, responsive, and user-friendly web applications.  
-I enjoy solving real-world problems with efficient and scalable code.  
-Currently focused on sharpening my React ecosystem skills while exploring advanced web technologies.  
+I’m a passionate Web Developer who enjoys building clean, responsive, and user-friendly web applications.  
+I have a strong foundation in programming and problem-solving, and I’m always curious to learn new technologies.  
+Currently, I’m focused on creating impactful projects and expanding my full-stack development skills.  
 
 ---
 
 ## 🚀 Current Activities  
-- 🌱 Exploring **Next.js** and its full-stack capabilities  
-- 💻 Working on a **Tourism Website** project  
-- 📚 Learning advanced JavaScript concepts  
-- ⚡ Enhancing my GitHub profile with open-source contributions  
+- 🎨 Working on my **Portfolio Website**  
+- 📚 Learning **TypeScript**, **shadcn/ui**, and **Database Management**  
+- 🤖 Exploring **Machine Learning** concepts  
+- 🛠 Improving UI/UX skills for better user experiences  
 
 ---
 
 ## 🛠️ Skills  
 
-### **Frontend**  
+### **Programming Languages**  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,py" alt="Programming Languages" />
 </p>
 
-### **Backend**  
+### **Frontend Development**  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" alt="Frontend Skills" />
+</p>
+
+### **Backend & Database**  
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Skills" />
 </p>
@@ -36,19 +54,6 @@ Currently focused on sharpening my React ecosystem skills while exploring advanc
 
 ## 🌐 Connect with Me  
 <p>
-  <a href="https://github.com/sowmitraguho"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://github.com/gowmitraguho"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/sowmitra-guha-a6066b329"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SowmitraGuha&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SowmitraGuha&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SowmitraGuha&theme=tokyonight" alt="GitHub Streak" />
 </p>
