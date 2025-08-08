@@ -22,7 +22,7 @@ Currently, I’m focused on creating impactful projects and expanding my full-st
 ---
 ## 📞 Contact Me  
 Phone: +8801848697007  
-Email: swomitraguha@gmail.com
+Email: sowmitraguha@gmail.com
 ---
 
 ## 🚀 Current Activities  
