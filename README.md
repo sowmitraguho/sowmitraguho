@@ -20,6 +20,10 @@ I have a strong foundation in programming and problem-solving, and I’m always 
 Currently, I’m focused on creating impactful projects and expanding my full-stack development skills.  
 
 ---
+## 📞 Contact Me  
+Phone: +8801848697007  
+Email: swomitraguha@gmail.com
+---
 
 ## 🚀 Current Activities  
 - 🎨 Working on my **Portfolio Website**  
