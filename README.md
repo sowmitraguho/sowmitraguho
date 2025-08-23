@@ -61,4 +61,5 @@ Email: sowmitraguha@gmail.com
 <p>
   <a href="https://github.com/gowmitraguho"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/sowmitra-guha-a6066b329"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://sowmitra-guha-portfolio.netlify.app/"><img src="https://skillicons.dev/icons?i=htmx" alt="Portfolio" /></a>
 </p>
