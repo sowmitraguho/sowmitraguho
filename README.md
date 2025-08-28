@@ -1,4 +1,5 @@
-![Sowmitra Guha - Web Developer Banner](https://www.canva.com/design/DAGxZMJKv38/kgb3D2XnwmVt230Tbxri-w/view?utm_content=DAGxZMJKv38&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h451decf8de)
+
+![Sowmitra Guha - Web Developer Banner](https://i.ibb.co/93bzdfQs/portfolio.png)
 
 
 
