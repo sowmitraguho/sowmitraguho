@@ -3,7 +3,7 @@
 
 
 
-# 🧑‍💻 Sowmitra Guha — Web Developer  
+# 🧑‍💻 Sowmitra Guha ( Frontend Developer ) 
 
 ## 📊 GitHub Stats  
 
