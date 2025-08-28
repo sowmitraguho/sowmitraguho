@@ -1,4 +1,4 @@
-![Sowmitra Guha - Web Developer Banner](https://i.ibb.co/QvpGmbKB/Developer-Linked-In-Banner.png)
+![Sowmitra Guha - Web Developer Banner](https://i.ibb.co/SXrr9Vcj/portfolio.png)
 
 
 
