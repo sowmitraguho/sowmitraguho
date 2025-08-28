@@ -27,9 +27,9 @@ Email: sowmitraguha@gmail.com
 ---
 
 ## 🚀 Current Activities  
-- 🎨 Working on my **Portfolio Website**  
-- 📚 Learning **TypeScript**, **shadcn/ui**, and **Database Management**  
-- 🤖 Exploring **Machine Learning** concepts  
+- 🎨 Working on my **Ecommerce Website** [Nextjs Project] 
+- 📚 Learning **TypeScript**, **Nextjs**, and **Database Management**  
+- 🤖 Exploring **Backend Development** concepts  
 - 🛠 Improving UI/UX skills for better user experiences  
 
 ---
