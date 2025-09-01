@@ -1,7 +1,5 @@
-
-![Sowmitra Guha - Web Developer Banner](https://i.ibb.co/93bzdfQs/portfolio.png)
-
-
+[![Pixel Art Wallpaper Desktop Gif](https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896)
+]()
 
 # 🧑‍💻 Sowmitra Guha ( Frontend Developer ) 
 
