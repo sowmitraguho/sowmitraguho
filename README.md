@@ -43,7 +43,7 @@ Email: sowmitraguha@gmail.com
 
 ### **Frontend Development**  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs" alt="Frontend Skills" />
 </p>
 
 ### **Backend & Database**  
