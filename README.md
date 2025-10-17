@@ -36,22 +36,22 @@ Email: sowmitraguha@gmail.com
 
 ### **Programming Languages**  
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,py" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py" alt="Programming Languages" />
 </p>
 
 ### **Frontend Development**  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,redux,sass,materialui" alt="Frontend Skills" />
 </p>
 
 ### **Backend & Database**  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,firebase,supabase,postman,sqlite" alt="Backend Skills" />
 </p>
 
 ### **Tools & Others**  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,figma,netlify,vercel,vite" alt="Tools" />
 </p>
 
 ---
