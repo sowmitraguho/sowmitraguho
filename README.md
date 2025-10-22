@@ -1,34 +1,35 @@
 [![Pixel Art Wallpaper Desktop Gif](https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896)
 ]()
 
-# 🧑‍💻 Sowmitra Guha ( Web Developer ) 
+# 🧑‍💻 Sowmitra Guha ( Web Developer )
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sowmitraguho&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmitraguho&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sowmitraguho&theme=tokyonight" alt="GitHub Streak Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sowmitraguho&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats" height="165" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmitraguho&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+</p>
 
 ---
 
 ## 👋 About Me  
-I’m a passionate Web Developer who enjoys building clean, responsive, and user-friendly web applications.  
-I have a strong foundation in programming and problem-solving, and I’m always curious to learn new technologies.  
-Currently, I’m focused on creating impactful projects and expanding my full-stack development skills.  
+I’m a passionate **Web Developer** who enjoys building clean, responsive, and user-friendly web applications.  
+I have a strong foundation in programming and problem-solving, and I’m always curious to explore new technologies.  
+Currently, I’m focused on developing **scalable full-stack applications** and strengthening my **backend expertise**.  
 
----
-## 📞 Contact Me  
-Phone: +8801848697007  
-Email: sowmitraguha@gmail.com
 ---
 
 ## 🚀 Current Activities  
-- 🎨 Working on my **Ecommerce Website** [Nextjs Project] 
-- 📚 Learning **TypeScript**, **Nextjs**, and **Database Management**  
-- 🤖 Exploring **Backend Development** concepts  
-- 🛠 Improving UI/UX skills for better user experiences  
+- 💼 Collaborating on a **Job Portal Website (Group Project)**  
+   → Handling the **Backend Server** using **Node.js**, **Express.js**, and **Mongoose**  
+   → Building the **Employer Dashboard** with **Next.js**, **TypeScript**, and **Tailwind CSS**  
+- 📚 Learning **Advanced Database Management** and **API Security**  
+- ⚙️ Exploring **System Design** and **Backend Architecture** concepts  
+- 🧠 Enhancing **UI/UX design sense** for professional web experiences  
 
 ---
 
@@ -46,7 +47,7 @@ Email: sowmitraguha@gmail.com
 
 ### **Backend & Database**  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,firebase,supabase,postman,sqlite" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,supabase,postman,sqlite" alt="Backend Skills" />
 </p>
 
 ### **Tools & Others**  
@@ -56,9 +57,16 @@ Email: sowmitraguha@gmail.com
 
 ---
 
+## 📞 Contact Me  
+Phone: +8801848697007  
+Email: sowmitraguha@gmail.com 
+Whatsapp: +8801521227827
+
+---
+
 ## 🌐 Connect with Me  
 <p>
-  <a href="https://github.com/gowmitraguho"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://github.com/sowmitraguho"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/sowmitra-guha-a6066b329"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
   <a href="https://sowmitra-guha-portfolio.netlify.app/"><img src="https://skillicons.dev/icons?i=htmx" alt="Portfolio" /></a>
 </p>
