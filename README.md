@@ -3,19 +3,6 @@
 
 # 🧑‍💻 Sowmitra Guha ( Web Developer )
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sowmitraguho&theme=tokyonight" alt="GitHub Streak Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sowmitraguho&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmitraguho&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
-</p>
-
----
-
 # 🚀 My GitHub Performance Metrics
 
 <p align="center">
