@@ -15,16 +15,16 @@
 </p>
 
 ---
+
 # 🚀 My GitHub Performance Metrics
 
 <p align="center">
   <a href="https://github.com/sowmitraguho">
-    <img src="https://github-readme-stats.vercel.app/api?username=sowmitraguho&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true&line_height=25" 
+    <img src="https://github-readme-stats.vercel.app/api?username=sowmitraguho&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=25" 
          alt="GitHub Stats" 
          height="180" />
   </a>
-  <a href="https://github.com/sowmitraguho">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sowmitraguho&theme=buefy&hide_border=true&line_height=25" 
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=sowmitraguho&theme=tokyonight&line_height=25" 
          alt="GitHub Streak Stats" 
          height="180" />
   </a>
@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://github.com/sowmitraguho">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmitraguho&layout=compact&theme=buefy&hide_border=true" 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmitraguho&layout=compact&theme=tokyonight" 
          alt="Top Languages" 
          height="180" />
   </a>
